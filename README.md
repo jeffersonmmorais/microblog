@@ -1,2 +1,2 @@
 # microblog
-microblog for test flask framework
+microblog for test and learning of flask framework
